@@ -2,7 +2,7 @@
 Craeating a Naive Bayes Classifier to measure email similarity using the sklearn fetch_20newsgroups dataset.
 
 ## Table of contents
-[Installation](Installation)
+[Installation](#Installation)
 
 ### Installation
 Make sure you have Python installed.
